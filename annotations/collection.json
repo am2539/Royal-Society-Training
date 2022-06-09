@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://am2539.github.io/Royal-Society-Training/annotations/cosmographia-annotations.json" ],
+  "@id" : "https://am2539.github.io/Royal-Society-Training/annotations/collection.json",
+  "label" : "All annotations loaded in am2539/Royal-Society-Training project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
