@@ -90,7 +90,7 @@
         "@id": "http://sas.gdmrdigital.com/annotation/list/00bcdfc8175116dc76933e0df83826f8.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
-    }]
+    }],
       "@type" : "sc:Canvas",
       "width" : 709,
       "@id" : "https://cudl.lib.cam.ac.uk/iiif/PR-ADAMS-00005-00055-00001-00003/canvas/1",
